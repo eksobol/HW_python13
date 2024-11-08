@@ -8,6 +8,10 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+.idea
+notifications/telegram.json
+.env
+test/allure-results
 build/
 develop-eggs/
 dist/
